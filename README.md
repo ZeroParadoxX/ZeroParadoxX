@@ -1,7 +1,7 @@
 # 💫 About Me:
 🚀 Python Full Stack Developer |  Django & Web Enthusiast |Creative Coder<br><br>
 💡 Passionate about building scalable and high-performance web applications.<br>
-💻 Tech Stack Mastery: Python | Django | MySQL | JavaScript | React.js | Bootstrap<br>
+💻 <b>Tech Stack Mastery:</b> Python | Django | MySQL | JavaScript | React.js | Bootstrap<br>
 🌎 Creator of Trippigo – A next-gen travel platform revolutionizing exploration<br>
 📈 100+ Python projects completed (Automation, Data Science, Web, and more).<br>
 🎯 Always learning, exploring, and innovating!<br>
