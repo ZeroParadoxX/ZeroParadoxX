@@ -3,7 +3,7 @@
 Hi, I'm **ZeroparadoxX**! <br>
 A **Full-Stack Developer** passionate about building scalable and innovative applications using **Python, Django, JavaScript, and React**.<br>
 
-🚀 Python Full Stack Developer |  Django & Web Enthusiast |Creative Coder<br><br>
+🚀 Python Full Stack Developer |  Django & Web Enthusiast | Creative Coder<br><br>
 💻 <b>Tech Stack Mastery:</b> Python | Django | MySQL | JavaScript | React.js | Bootstrap<br>
 🌎 <b>Creator of Trippigo – </b> A next-gen travel platform revolutionizing exploration<br>
 📈 <b>100+ Python projects</b> completed (Automation, Data Science, Web, and more).<br>
